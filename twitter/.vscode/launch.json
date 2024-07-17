@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/giggio/DEV/Prog2/twitter",
+      "program": "/Users/giggio/DEV/Prog2/twitter/build/Debug/outDebug"
+    }
+  ]
+}
